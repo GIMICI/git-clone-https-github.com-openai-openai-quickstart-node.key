@@ -63,6 +63,7 @@ For feature requests, bugs, or other issues, please file a [GitHub issue](https:
 
 For any other questions or feedback, connect directly with the
 Robotics team at [unity-robotics@unity3d.com](mailto:unity-robotics@unity3d.com).
+https://github.com/GIMICI/https-github.com-Unity-Technologies-ROS-TCP-Connector.wiki.git
 
 ## License
 [Apache License 2.0](LICENSE)
